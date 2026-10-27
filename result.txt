@@ -1,0 +1,6 @@
+[qqq]
+Stream Ready Steady Go
+[test1]
+Привет мир!
+[test2]
+Hello world!
